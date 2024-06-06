@@ -1,0 +1,16 @@
+Artículo: polerón
+Precio: 300
+Descripción: poleron de franela
+Código: 45678
+Talla: 10
+Marca: marca d
+Color: amarillo
+
+Artículo: vestido
+Precio: 200
+Descripción: vestido de verano de niña
+Código: 6789
+Talla: 12
+Marca: marca j
+Color: celeste
+

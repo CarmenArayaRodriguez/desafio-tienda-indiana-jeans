@@ -1,0 +1,16 @@
+Artículo: jeans
+Precio: 1000
+Descripción: jeans de hombre
+Código: 1234
+Talla: 46
+Marca: marca x
+Color: azul
+
+Artículo: blusa
+Precio: 500
+Descripción: camisera de mujer
+Código: 4567
+Talla: 46
+Marca: marca d
+Color: blanco
+

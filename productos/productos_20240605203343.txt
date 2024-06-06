@@ -1,0 +1,16 @@
+Artículo: polera
+Precio: 300
+Descripción: polera de niño
+Código: 6789
+Talla: 4
+Marca: marca h
+Color: verde
+
+Artículo: zapatillas
+Precio: 6000
+Descripción: zapatillas de niña
+Código: 5432
+Talla: 29
+Marca: marca j
+Color: rosa
+

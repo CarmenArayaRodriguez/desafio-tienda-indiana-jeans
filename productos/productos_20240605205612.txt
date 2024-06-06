@@ -1,0 +1,8 @@
+Artículo: falda
+Precio: 200
+Descripción: falda larga de mujer
+Código: 5678
+Talla: 38
+Marca: marca t
+Color: beige
+
